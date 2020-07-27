@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "අස්වනු",
+    "slug": "Aswanu",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/log1.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0c2461"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.accsseed.agri",
+      "buildNumber": "1.0.0"
+    },
+
+    "android" :{
+      "package" : "com.accsseed.agri",
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json"
+    },
+
+    "notification": {
+     
+      "icon": "./assets/log1.png",
+      "color":"#0c2461",
+      "androidMode": "default",
+      "androidCollapsedTitle": "#{unread_notifications} new interactions"
+    }
+  }
+}

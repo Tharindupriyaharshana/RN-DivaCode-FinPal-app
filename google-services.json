@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333526535761",
+    "firebase_url": "https://authentificationapp-8c5df.firebaseio.com",
+    "project_id": "authentificationapp-8c5df",
+    "storage_bucket": "authentificationapp-8c5df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333526535761:android:0e92c7ef778ddc5e50b270",
+        "android_client_info": {
+          "package_name": "com.accsseed.agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333526535761-6771c2bdka37nv99lc13n7q7m88rf3fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SGECx7g5LyP-VBhMV3Twd-NYGG6dkz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333526535761-6771c2bdka37nv99lc13n7q7m88rf3fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
